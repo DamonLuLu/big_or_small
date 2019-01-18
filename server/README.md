@@ -62,9 +62,9 @@
 <td>botSecret</td><td>imcf1a06be1238a48018f9aa0c66b8e7be2</td><td>机器人密钥</td>
 </tr>
 <tr>
-<tr><td>gameIntervalTime</td><td>5</td><td>游戏投注时长</td></tr>
-<tr><td>gameBlockSize</td><td>3</td><td>游戏结束后的第一个块到中奖块的间隔块数 </td></tr>
-<tr><td>roundIntervalTime</td><td>1</td><td>游戏中奖结果公布后到下一轮游戏间隔时间</td></tr>
+<tr><td>gameIntervalTime</td><td>5</td><td>游戏投注时长(分钟)</td></tr>
+<tr><td>gameBlockSize</td><td>3</td><td>游戏结束后的第一个块到中奖块的间隔块数</td></tr>
+<tr><td>roundIntervalTime</td><td>1</td><td>游戏中奖结果公布后到下一轮游戏间隔时间(分钟)</td></tr>
 <tr><td>domain</td><td>https://f.dev.iweipeng.com</td><td>猜一猜前端域名，用于跨域</td></tr>
 </tr>
 
